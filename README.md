@@ -1,1 +1,5 @@
-# scbuild-dev
+- 👋 Hi, I’m @alaminbd17
+- 👀 I’m interested in JS, Kotlin, Linux, and Many More!
+- 🌱 I’m currently learning JS Frameworks
+- 💞️ I’m looking to collaborate on any projects
+- 📫 How to reach me fb.me/alaminbd17
